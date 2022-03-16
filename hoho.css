@@ -1,0 +1,59 @@
+#search{
+      width: 530px;
+      height: 30px;
+      margin-left: 80px;
+      border-radius: 20px;
+      margin-top: 10px;
+}
+#menu{
+     display: flex;
+     margin-left: 150px;
+     list-style: none;
+}
+.opsi{
+      margin: 10px;
+      margin-right: 50px;
+}
+a:hover{
+      color: black;
+}
+.content{
+      margin-right: 350px;
+      margin-left: 200px;
+      font-size: 15px;
+      text-align: justify;
+
+}
+#google{
+      width: 100px;
+      margin-top: 10px;
+      margin-left: 20px;
+      float:left;
+}
+.table{
+      margin-left: 30px;
+}
+.img-table{
+      border-spacing: 40px;
+}
+.main{
+      margin: 0px;
+}
+p{
+      text-align: justify;
+}
+#mainInfo{
+      margin-left: 20px;
+      margin-right: 100px;
+}
+#utama{
+      background-image: linear-gradient(rgb(206, 193, 14), aqua);
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin: 0px;
+}
+#ads{
+      float:right;
+      height: 400px;
+      width: 300px;
+}
